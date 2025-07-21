@@ -132,8 +132,7 @@ The dashboard includes an interactive global heatmap with region-wise sales dens
 ---
 
 ##  Preview
-
-> ![Dashboard Overview](./screenshots/overview.jpg)
+ 
 > Get an overview of the dashboard through screenshots.
 
 ---
